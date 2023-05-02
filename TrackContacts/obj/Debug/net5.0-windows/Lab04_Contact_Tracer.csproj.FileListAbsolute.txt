@@ -1,0 +1,54 @@
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\bin\Debug\net5.0-windows\Lab04_Contact_Tracer.exe
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\bin\Debug\net5.0-windows\Lab04_Contact_Tracer.deps.json
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\bin\Debug\net5.0-windows\Lab04_Contact_Tracer.runtimeconfig.json
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\bin\Debug\net5.0-windows\Lab04_Contact_Tracer.runtimeconfig.dev.json
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\bin\Debug\net5.0-windows\Lab04_Contact_Tracer.dll
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\bin\Debug\net5.0-windows\ref\Lab04_Contact_Tracer.dll
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\bin\Debug\net5.0-windows\Lab04_Contact_Tracer.pdb
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\obj\Debug\net5.0-windows\Lab04_Contact_Tracer.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\obj\Debug\net5.0-windows\Lab04_Contact_Tracer.Form1.resources
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\obj\Debug\net5.0-windows\Lab04_Contact_Tracer.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\obj\Debug\net5.0-windows\Lab04_Contact_Tracer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\obj\Debug\net5.0-windows\Lab04_Contact_Tracer.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\obj\Debug\net5.0-windows\Lab04_Contact_Tracer.AssemblyInfo.cs
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\obj\Debug\net5.0-windows\Lab04_Contact_Tracer.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\obj\Debug\net5.0-windows\Lab04_Contact_Tracer.dll
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\obj\Debug\net5.0-windows\ref\Lab04_Contact_Tracer.dll
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\obj\Debug\net5.0-windows\Lab04_Contact_Tracer.pdb
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\obj\Debug\net5.0-windows\Lab04_Contact_Tracer.genruntimeconfig.cache
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\bin\Debug\net5.0-windows\Lab04_Contact_Tracer.exe
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\bin\Debug\net5.0-windows\Lab04_Contact_Tracer.deps.json
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\bin\Debug\net5.0-windows\Lab04_Contact_Tracer.runtimeconfig.json
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\bin\Debug\net5.0-windows\Lab04_Contact_Tracer.runtimeconfig.dev.json
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\bin\Debug\net5.0-windows\Lab04_Contact_Tracer.dll
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\bin\Debug\net5.0-windows\ref\Lab04_Contact_Tracer.dll
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\bin\Debug\net5.0-windows\Lab04_Contact_Tracer.pdb
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\obj\Debug\net5.0-windows\Lab04_Contact_Tracer.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\obj\Debug\net5.0-windows\Lab04_Contact_Tracer.Form1.resources
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\obj\Debug\net5.0-windows\Lab04_Contact_Tracer.csproj.GenerateResource.cache
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\obj\Debug\net5.0-windows\Lab04_Contact_Tracer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\obj\Debug\net5.0-windows\Lab04_Contact_Tracer.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\obj\Debug\net5.0-windows\Lab04_Contact_Tracer.AssemblyInfo.cs
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\obj\Debug\net5.0-windows\Lab04_Contact_Tracer.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\obj\Debug\net5.0-windows\Lab04_Contact_Tracer.dll
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\obj\Debug\net5.0-windows\ref\Lab04_Contact_Tracer.dll
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\obj\Debug\net5.0-windows\Lab04_Contact_Tracer.pdb
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\obj\Debug\net5.0-windows\Lab04_Contact_Tracer.genruntimeconfig.cache
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\bin\Debug\net5.0-windows\Lab04_Contact_Tracer.exe
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\bin\Debug\net5.0-windows\Lab04_Contact_Tracer.deps.json
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\bin\Debug\net5.0-windows\Lab04_Contact_Tracer.runtimeconfig.json
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\bin\Debug\net5.0-windows\Lab04_Contact_Tracer.runtimeconfig.dev.json
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\bin\Debug\net5.0-windows\Lab04_Contact_Tracer.dll
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\bin\Debug\net5.0-windows\Lab04_Contact_Tracer.pdb
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\obj\Debug\net5.0-windows\Lab04_Contact_Tracer.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\obj\Debug\net5.0-windows\Lab04_Contact_Tracer.Form1.resources
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\obj\Debug\net5.0-windows\Lab04_Contact_Tracer.csproj.GenerateResource.cache
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\obj\Debug\net5.0-windows\Lab04_Contact_Tracer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\obj\Debug\net5.0-windows\Lab04_Contact_Tracer.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\obj\Debug\net5.0-windows\Lab04_Contact_Tracer.AssemblyInfo.cs
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\obj\Debug\net5.0-windows\Lab04_Contact_Tracer.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\obj\Debug\net5.0-windows\Lab04_Contact_Tracer.dll
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\obj\Debug\net5.0-windows\refint\Lab04_Contact_Tracer.dll
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\obj\Debug\net5.0-windows\Lab04_Contact_Tracer.pdb
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\obj\Debug\net5.0-windows\Lab04_Contact_Tracer.genruntimeconfig.cache
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab04_Contact_Tracer\obj\Debug\net5.0-windows\ref\Lab04_Contact_Tracer.dll

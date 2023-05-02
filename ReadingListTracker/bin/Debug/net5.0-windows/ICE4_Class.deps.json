@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ICE4_Class/1.0.0": {
+        "runtime": {
+          "ICE4_Class.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ICE4_Class/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

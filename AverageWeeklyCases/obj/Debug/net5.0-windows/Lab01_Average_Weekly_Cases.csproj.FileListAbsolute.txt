@@ -1,0 +1,36 @@
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab01_Average_Weekly_Cases\bin\Debug\net5.0-windows\Lab01_Average_Weekly_Cases.exe
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab01_Average_Weekly_Cases\bin\Debug\net5.0-windows\Lab01_Average_Weekly_Cases.deps.json
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab01_Average_Weekly_Cases\bin\Debug\net5.0-windows\Lab01_Average_Weekly_Cases.runtimeconfig.json
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab01_Average_Weekly_Cases\bin\Debug\net5.0-windows\Lab01_Average_Weekly_Cases.runtimeconfig.dev.json
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab01_Average_Weekly_Cases\bin\Debug\net5.0-windows\Lab01_Average_Weekly_Cases.dll
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab01_Average_Weekly_Cases\bin\Debug\net5.0-windows\ref\Lab01_Average_Weekly_Cases.dll
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab01_Average_Weekly_Cases\bin\Debug\net5.0-windows\Lab01_Average_Weekly_Cases.pdb
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab01_Average_Weekly_Cases\obj\Debug\net5.0-windows\Lab01_Average_Weekly_Cases.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab01_Average_Weekly_Cases\obj\Debug\net5.0-windows\Lab01_Average_Weekly_Cases.Form1.resources
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab01_Average_Weekly_Cases\obj\Debug\net5.0-windows\Lab01_Average_Weekly_Cases.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab01_Average_Weekly_Cases\obj\Debug\net5.0-windows\Lab01_Average_Weekly_Cases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab01_Average_Weekly_Cases\obj\Debug\net5.0-windows\Lab01_Average_Weekly_Cases.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab01_Average_Weekly_Cases\obj\Debug\net5.0-windows\Lab01_Average_Weekly_Cases.AssemblyInfo.cs
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab01_Average_Weekly_Cases\obj\Debug\net5.0-windows\Lab01_Average_Weekly_Cases.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab01_Average_Weekly_Cases\obj\Debug\net5.0-windows\Lab01_Average_Weekly_Cases.dll
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab01_Average_Weekly_Cases\obj\Debug\net5.0-windows\ref\Lab01_Average_Weekly_Cases.dll
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab01_Average_Weekly_Cases\obj\Debug\net5.0-windows\Lab01_Average_Weekly_Cases.pdb
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab01_Average_Weekly_Cases\obj\Debug\net5.0-windows\Lab01_Average_Weekly_Cases.genruntimeconfig.cache
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab01_Average_Weekly_Cases\bin\Debug\net5.0-windows\Lab01_Average_Weekly_Cases.exe
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab01_Average_Weekly_Cases\bin\Debug\net5.0-windows\Lab01_Average_Weekly_Cases.deps.json
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab01_Average_Weekly_Cases\bin\Debug\net5.0-windows\Lab01_Average_Weekly_Cases.runtimeconfig.json
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab01_Average_Weekly_Cases\bin\Debug\net5.0-windows\Lab01_Average_Weekly_Cases.runtimeconfig.dev.json
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab01_Average_Weekly_Cases\bin\Debug\net5.0-windows\Lab01_Average_Weekly_Cases.dll
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab01_Average_Weekly_Cases\bin\Debug\net5.0-windows\Lab01_Average_Weekly_Cases.pdb
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab01_Average_Weekly_Cases\obj\Debug\net5.0-windows\Lab01_Average_Weekly_Cases.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab01_Average_Weekly_Cases\obj\Debug\net5.0-windows\Lab01_Average_Weekly_Cases.Form1.resources
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab01_Average_Weekly_Cases\obj\Debug\net5.0-windows\Lab01_Average_Weekly_Cases.csproj.GenerateResource.cache
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab01_Average_Weekly_Cases\obj\Debug\net5.0-windows\Lab01_Average_Weekly_Cases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab01_Average_Weekly_Cases\obj\Debug\net5.0-windows\Lab01_Average_Weekly_Cases.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab01_Average_Weekly_Cases\obj\Debug\net5.0-windows\Lab01_Average_Weekly_Cases.AssemblyInfo.cs
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab01_Average_Weekly_Cases\obj\Debug\net5.0-windows\Lab01_Average_Weekly_Cases.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab01_Average_Weekly_Cases\obj\Debug\net5.0-windows\Lab01_Average_Weekly_Cases.dll
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab01_Average_Weekly_Cases\obj\Debug\net5.0-windows\refint\Lab01_Average_Weekly_Cases.dll
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab01_Average_Weekly_Cases\obj\Debug\net5.0-windows\Lab01_Average_Weekly_Cases.pdb
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab01_Average_Weekly_Cases\obj\Debug\net5.0-windows\Lab01_Average_Weekly_Cases.genruntimeconfig.cache
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab01_Average_Weekly_Cases\obj\Debug\net5.0-windows\ref\Lab01_Average_Weekly_Cases.dll

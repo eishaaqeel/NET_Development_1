@@ -1,0 +1,115 @@
+\\Mac\Home\Downloads\_School\NETD\NET2022\Final_Project\bin\Debug\net5.0-windows\Final_Project.exe
+\\Mac\Home\Downloads\_School\NETD\NET2022\Final_Project\bin\Debug\net5.0-windows\Final_Project.deps.json
+\\Mac\Home\Downloads\_School\NETD\NET2022\Final_Project\bin\Debug\net5.0-windows\Final_Project.runtimeconfig.json
+\\Mac\Home\Downloads\_School\NETD\NET2022\Final_Project\bin\Debug\net5.0-windows\Final_Project.runtimeconfig.dev.json
+\\Mac\Home\Downloads\_School\NETD\NET2022\Final_Project\bin\Debug\net5.0-windows\Final_Project.dll
+\\Mac\Home\Downloads\_School\NETD\NET2022\Final_Project\bin\Debug\net5.0-windows\ref\Final_Project.dll
+\\Mac\Home\Downloads\_School\NETD\NET2022\Final_Project\bin\Debug\net5.0-windows\Final_Project.pdb
+\\Mac\Home\Downloads\_School\NETD\NET2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\_School\NETD\NET2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\_School\NETD\NET2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Downloads\_School\NETD\NET2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\_School\NETD\NET2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.AssemblyInfo.cs
+\\Mac\Home\Downloads\_School\NETD\NET2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\_School\NETD\NET2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.dll
+\\Mac\Home\Downloads\_School\NETD\NET2022\Final_Project\obj\Debug\net5.0-windows\ref\Final_Project.dll
+\\Mac\Home\Downloads\_School\NETD\NET2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.pdb
+\\Mac\Home\Downloads\_School\NETD\NET2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.genruntimeconfig.cache
+\\Mac\Home\Downloads\_School\NETD\NET2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.frmMain.resources
+\\Mac\Home\Downloads\_School\NETD\NET2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.FormWeeklyCases.resources
+\\Mac\Home\Downloads\_School\NETD\NET2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.Properties.Resources.resources
+\\Mac\Home\Downloads\_School\NETD\NET2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.ContactTracer.resources
+\\Mac\Home\Downloads\_School\NETD\NET2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.TextEditor.resources
+\\Mac\Home\Downloads\_School\NETD\NET2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.About.resources
+\\Mac\Home\Downloads\_School\NETD\NET2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.FormMain.resources
+\\Mac\Home\Downloads\_School\NETD\NET2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.Awesomeness.resources
+\\Mac\Home\Downloads\_School\NETD\NET2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.ShowCars.resources
+\\Mac\Home\Downloads\_School\NETD\NET2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.formCustomerEntry.resources
+\\Mac\Home\Downloads\_School\NETD\NET2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.formCustomerViewer.resources
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.dll
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\ref\Final_Project.dll
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.pdb
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\bin\Debug\net5.0-windows\Final_Project.exe
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\bin\Debug\net5.0-windows\Final_Project.deps.json
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\bin\Debug\net5.0-windows\Final_Project.runtimeconfig.json
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\bin\Debug\net5.0-windows\Final_Project.runtimeconfig.dev.json
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\bin\Debug\net5.0-windows\Final_Project.dll
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\bin\Debug\net5.0-windows\Final_Project.pdb
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.About.resources
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.Awesomeness.resources
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.ContactTracer.resources
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.ShowCars.resources
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.formCustomerEntry.resources
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.formCustomerViewer.resources
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.FormWeeklyCases.resources
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.frmMain.resources
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.FormMain.resources
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.Properties.Resources.resources
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.TextEditor.resources
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.WeeklyCases.resources
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.csproj.GenerateResource.cache
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.AssemblyInfo.cs
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.genruntimeconfig.cache
+\\Mac\Home\Downloads\_School\Final_Project\bin\Debug\net5.0-windows\Final_Project.exe
+\\Mac\Home\Downloads\_School\Final_Project\bin\Debug\net5.0-windows\Final_Project.deps.json
+\\Mac\Home\Downloads\_School\Final_Project\bin\Debug\net5.0-windows\Final_Project.runtimeconfig.json
+\\Mac\Home\Downloads\_School\Final_Project\bin\Debug\net5.0-windows\Final_Project.runtimeconfig.dev.json
+\\Mac\Home\Downloads\_School\Final_Project\bin\Debug\net5.0-windows\Final_Project.dll
+\\Mac\Home\Downloads\_School\Final_Project\bin\Debug\net5.0-windows\Final_Project.pdb
+\\Mac\Home\Downloads\_School\Final_Project\obj\Debug\net5.0-windows\Final_Project.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\_School\Final_Project\obj\Debug\net5.0-windows\Final_Project.About.resources
+\\Mac\Home\Downloads\_School\Final_Project\obj\Debug\net5.0-windows\Final_Project.Awesomeness.resources
+\\Mac\Home\Downloads\_School\Final_Project\obj\Debug\net5.0-windows\Final_Project.ContactTracer.resources
+\\Mac\Home\Downloads\_School\Final_Project\obj\Debug\net5.0-windows\Final_Project.ShowCars.resources
+\\Mac\Home\Downloads\_School\Final_Project\obj\Debug\net5.0-windows\Final_Project.formCustomerEntry.resources
+\\Mac\Home\Downloads\_School\Final_Project\obj\Debug\net5.0-windows\Final_Project.formCustomerViewer.resources
+\\Mac\Home\Downloads\_School\Final_Project\obj\Debug\net5.0-windows\Final_Project.FormWeeklyCases.resources
+\\Mac\Home\Downloads\_School\Final_Project\obj\Debug\net5.0-windows\Final_Project.frmMain.resources
+\\Mac\Home\Downloads\_School\Final_Project\obj\Debug\net5.0-windows\Final_Project.FormMain.resources
+\\Mac\Home\Downloads\_School\Final_Project\obj\Debug\net5.0-windows\Final_Project.Properties.Resources.resources
+\\Mac\Home\Downloads\_School\Final_Project\obj\Debug\net5.0-windows\Final_Project.TextEditor.resources
+\\Mac\Home\Downloads\_School\Final_Project\obj\Debug\net5.0-windows\Final_Project.WeeklyCases.resources
+\\Mac\Home\Downloads\_School\Final_Project\obj\Debug\net5.0-windows\Final_Project.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\_School\Final_Project\obj\Debug\net5.0-windows\Final_Project.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Downloads\_School\Final_Project\obj\Debug\net5.0-windows\Final_Project.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\_School\Final_Project\obj\Debug\net5.0-windows\Final_Project.AssemblyInfo.cs
+\\Mac\Home\Downloads\_School\Final_Project\obj\Debug\net5.0-windows\Final_Project.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\_School\Final_Project\obj\Debug\net5.0-windows\Final_Project.dll
+\\Mac\Home\Downloads\_School\Final_Project\obj\Debug\net5.0-windows\refint\Final_Project.dll
+\\Mac\Home\Downloads\_School\Final_Project\obj\Debug\net5.0-windows\Final_Project.pdb
+\\Mac\Home\Downloads\_School\Final_Project\obj\Debug\net5.0-windows\Final_Project.genruntimeconfig.cache
+\\Mac\Home\Downloads\_School\Final_Project\obj\Debug\net5.0-windows\ref\Final_Project.dll
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\refint\Final_Project.dll
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\bin\Debug\net5.0-windows\Final_Project.exe
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\bin\Debug\net5.0-windows\Final_Project.deps.json
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\bin\Debug\net5.0-windows\Final_Project.runtimeconfig.json
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\bin\Debug\net5.0-windows\Final_Project.runtimeconfig.dev.json
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\bin\Debug\net5.0-windows\Final_Project.dll
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\bin\Debug\net5.0-windows\Final_Project.pdb
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.About.resources
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.Awesomeness.resources
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.ContactTracer.resources
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.ShowCars.resources
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.formCustomerEntry.resources
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.formCustomerViewer.resources
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.FormWeeklyCases.resources
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.frmMain.resources
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.FormMain.resources
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.Properties.Resources.resources
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.TextEditor.resources
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.WeeklyCases.resources
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.csproj.GenerateResource.cache
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.AssemblyInfo.cs
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.dll
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\refint\Final_Project.dll
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.pdb
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\Final_Project.genruntimeconfig.cache
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Final_Project\obj\Debug\net5.0-windows\ref\Final_Project.dll

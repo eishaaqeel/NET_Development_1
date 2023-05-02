@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RegionsWeeklyCases/1.0.0": {
+        "runtime": {
+          "RegionsWeeklyCases.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RegionsWeeklyCases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,54 @@
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\bin\Debug\net5.0-windows\Lab02_Grade_Calculator.exe
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\bin\Debug\net5.0-windows\Lab02_Grade_Calculator.deps.json
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\bin\Debug\net5.0-windows\Lab02_Grade_Calculator.runtimeconfig.json
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\bin\Debug\net5.0-windows\Lab02_Grade_Calculator.runtimeconfig.dev.json
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\bin\Debug\net5.0-windows\Lab02_Grade_Calculator.dll
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\bin\Debug\net5.0-windows\ref\Lab02_Grade_Calculator.dll
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\bin\Debug\net5.0-windows\Lab02_Grade_Calculator.pdb
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\obj\Debug\net5.0-windows\Lab02_Grade_Calculator.Form1.resources
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\obj\Debug\net5.0-windows\Lab02_Grade_Calculator.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\obj\Debug\net5.0-windows\Lab02_Grade_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\obj\Debug\net5.0-windows\Lab02_Grade_Calculator.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\obj\Debug\net5.0-windows\Lab02_Grade_Calculator.AssemblyInfo.cs
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\obj\Debug\net5.0-windows\Lab02_Grade_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\obj\Debug\net5.0-windows\Lab02_Grade_Calculator.dll
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\obj\Debug\net5.0-windows\ref\Lab02_Grade_Calculator.dll
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\obj\Debug\net5.0-windows\Lab02_Grade_Calculator.pdb
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\obj\Debug\net5.0-windows\Lab02_Grade_Calculator.genruntimeconfig.cache
+C:\Users\User\Downloads\Semester 2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\obj\Debug\net5.0-windows\Lab02_Grade_Calculator.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\bin\Debug\net5.0-windows\Lab02_Grade_Calculator.exe
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\bin\Debug\net5.0-windows\Lab02_Grade_Calculator.deps.json
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\bin\Debug\net5.0-windows\Lab02_Grade_Calculator.runtimeconfig.json
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\bin\Debug\net5.0-windows\Lab02_Grade_Calculator.runtimeconfig.dev.json
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\bin\Debug\net5.0-windows\Lab02_Grade_Calculator.dll
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\bin\Debug\net5.0-windows\ref\Lab02_Grade_Calculator.dll
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\bin\Debug\net5.0-windows\Lab02_Grade_Calculator.pdb
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\obj\Debug\net5.0-windows\Lab02_Grade_Calculator.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\obj\Debug\net5.0-windows\Lab02_Grade_Calculator.Form1.resources
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\obj\Debug\net5.0-windows\Lab02_Grade_Calculator.csproj.GenerateResource.cache
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\obj\Debug\net5.0-windows\Lab02_Grade_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\obj\Debug\net5.0-windows\Lab02_Grade_Calculator.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\obj\Debug\net5.0-windows\Lab02_Grade_Calculator.AssemblyInfo.cs
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\obj\Debug\net5.0-windows\Lab02_Grade_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\obj\Debug\net5.0-windows\Lab02_Grade_Calculator.dll
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\obj\Debug\net5.0-windows\ref\Lab02_Grade_Calculator.dll
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\obj\Debug\net5.0-windows\Lab02_Grade_Calculator.pdb
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\obj\Debug\net5.0-windows\Lab02_Grade_Calculator.genruntimeconfig.cache
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\bin\Debug\net5.0-windows\Lab02_Grade_Calculator.exe
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\bin\Debug\net5.0-windows\Lab02_Grade_Calculator.deps.json
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\bin\Debug\net5.0-windows\Lab02_Grade_Calculator.runtimeconfig.json
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\bin\Debug\net5.0-windows\Lab02_Grade_Calculator.runtimeconfig.dev.json
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\bin\Debug\net5.0-windows\Lab02_Grade_Calculator.dll
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\bin\Debug\net5.0-windows\Lab02_Grade_Calculator.pdb
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\obj\Debug\net5.0-windows\Lab02_Grade_Calculator.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\obj\Debug\net5.0-windows\Lab02_Grade_Calculator.Form1.resources
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\obj\Debug\net5.0-windows\Lab02_Grade_Calculator.csproj.GenerateResource.cache
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\obj\Debug\net5.0-windows\Lab02_Grade_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\obj\Debug\net5.0-windows\Lab02_Grade_Calculator.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\obj\Debug\net5.0-windows\Lab02_Grade_Calculator.AssemblyInfo.cs
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\obj\Debug\net5.0-windows\Lab02_Grade_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\obj\Debug\net5.0-windows\Lab02_Grade_Calculator.dll
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\obj\Debug\net5.0-windows\refint\Lab02_Grade_Calculator.dll
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\obj\Debug\net5.0-windows\Lab02_Grade_Calculator.pdb
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\obj\Debug\net5.0-windows\Lab02_Grade_Calculator.genruntimeconfig.cache
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\Lab02_Grade_Calculator\obj\Debug\net5.0-windows\ref\Lab02_Grade_Calculator.dll

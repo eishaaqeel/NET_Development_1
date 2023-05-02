@@ -1,0 +1,36 @@
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\ICE4_Class\obj\Debug\net5.0-windows\ICE4_Class.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\ICE4_Class\obj\Debug\net5.0-windows\ICE4_Class.Form1.resources
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\ICE4_Class\obj\Debug\net5.0-windows\ICE4_Class.csproj.GenerateResource.cache
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\ICE4_Class\obj\Debug\net5.0-windows\ICE4_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\ICE4_Class\obj\Debug\net5.0-windows\ICE4_Class.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\ICE4_Class\obj\Debug\net5.0-windows\ICE4_Class.AssemblyInfo.cs
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\ICE4_Class\obj\Debug\net5.0-windows\ICE4_Class.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\ICE4_Class\bin\Debug\net5.0-windows\ICE4_Class.exe
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\ICE4_Class\bin\Debug\net5.0-windows\ICE4_Class.deps.json
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\ICE4_Class\bin\Debug\net5.0-windows\ICE4_Class.runtimeconfig.json
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\ICE4_Class\bin\Debug\net5.0-windows\ICE4_Class.runtimeconfig.dev.json
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\ICE4_Class\bin\Debug\net5.0-windows\ICE4_Class.dll
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\ICE4_Class\bin\Debug\net5.0-windows\ref\ICE4_Class.dll
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\ICE4_Class\bin\Debug\net5.0-windows\ICE4_Class.pdb
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\ICE4_Class\obj\Debug\net5.0-windows\ICE4_Class.dll
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\ICE4_Class\obj\Debug\net5.0-windows\ref\ICE4_Class.dll
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\ICE4_Class\obj\Debug\net5.0-windows\ICE4_Class.pdb
+C:\Users\User\Documents\Semester2 (2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\ICE4_Class\obj\Debug\net5.0-windows\ICE4_Class.genruntimeconfig.cache
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\ICE4_Class\bin\Debug\net5.0-windows\ICE4_Class.exe
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\ICE4_Class\bin\Debug\net5.0-windows\ICE4_Class.deps.json
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\ICE4_Class\bin\Debug\net5.0-windows\ICE4_Class.runtimeconfig.json
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\ICE4_Class\bin\Debug\net5.0-windows\ICE4_Class.runtimeconfig.dev.json
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\ICE4_Class\bin\Debug\net5.0-windows\ICE4_Class.dll
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\ICE4_Class\bin\Debug\net5.0-windows\ICE4_Class.pdb
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\ICE4_Class\obj\Debug\net5.0-windows\ICE4_Class.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\ICE4_Class\obj\Debug\net5.0-windows\ICE4_Class.Form1.resources
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\ICE4_Class\obj\Debug\net5.0-windows\ICE4_Class.csproj.GenerateResource.cache
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\ICE4_Class\obj\Debug\net5.0-windows\ICE4_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\ICE4_Class\obj\Debug\net5.0-windows\ICE4_Class.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\ICE4_Class\obj\Debug\net5.0-windows\ICE4_Class.AssemblyInfo.cs
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\ICE4_Class\obj\Debug\net5.0-windows\ICE4_Class.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\ICE4_Class\obj\Debug\net5.0-windows\ICE4_Class.dll
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\ICE4_Class\obj\Debug\net5.0-windows\refint\ICE4_Class.dll
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\ICE4_Class\obj\Debug\net5.0-windows\ICE4_Class.pdb
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\ICE4_Class\obj\Debug\net5.0-windows\ICE4_Class.genruntimeconfig.cache
+C:\Users\User\Documents\Semester 2 (Winter 2022)\Net Development I (NETD 2202)\Projects\NETD2202_Winter2022\ICE4_Class\obj\Debug\net5.0-windows\ref\ICE4_Class.dll
